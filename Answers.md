@@ -10,3 +10,11 @@
 # 2. What are Classes and objects in C++?
 - A class is a user-defined datatype with data members and member functions and is defined with the keyword class.
 - Objects are defined as an instance of a class. Once the object is created, then it can operate on both data members and member functions
+
+# 3. What are access modifiers?
+- Access modifiers are used to define accessibility for the class members. It defines how the members of the class are accessed outside the class scope.
+
+**There are three types of access modifiers**
++ Private
++ Public
++ Protected
