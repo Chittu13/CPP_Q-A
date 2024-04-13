@@ -27,3 +27,10 @@
 - Polymorphism
 - Encapsulation
 - Abstraction
+
+
+# 5. What is a Constructor?
+**A constructor is a member function that is invoked whenever we create an object, It has the same name as that of the class.**
+**There are 2 types of constructors:**
+- Default constructor
+- Parameterized constructor
