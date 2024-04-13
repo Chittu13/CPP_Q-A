@@ -31,6 +31,14 @@
 
 # 5. What is a Constructor?
 **A constructor is a member function that is invoked whenever we create an object, It has the same name as that of the class.**
+
+
 **There are 2 types of constructors:**
 - Default constructor
 - Parameterized constructor
+
+
+
+# 6. What is a Operator Overloading?
+**__Operator Overloading__ is a mechanism in which a special meaning is given to an operatro.**
+
